@@ -1,10 +1,5 @@
-#invlude<stdio.h>
+#include<stdio.h>
 int main(){
-    int year;
 
-    
-
-
-
-    return 0;
+return 0;
 }
