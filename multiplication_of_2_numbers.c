@@ -10,5 +10,5 @@ int main(){
     printf("The result =2%lf", result);
 
     return 0;
-hihihihihii
+
 }
