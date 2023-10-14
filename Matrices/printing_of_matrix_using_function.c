@@ -5,7 +5,7 @@ void display(int m, int n, double matA[m][n]){
     {
         for (int j = 0; j < n; j++)
         {
-            printf("%0.1lf ",matA[i][j]);
+            printf("%0.1lf\t ",matA[i][j]);
         }
         printf("\n");
     }
